@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on simple python projects that wouldn't be too hard. 
 - 📫 How to reach me: (Not up yet; maybe once I need it)
 
-
+I like Python, C#, the Unity Game Engine, and Linux. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunderclaw09)](https://github.com/anuraghazra/github-readme-stats)
